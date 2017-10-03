@@ -1,0 +1,10 @@
+[package]
+name = "echo"
+version = "0.1.0"
+authors = ["Andrew Demonov"]
+
+[dependencies]
+futures = "0.1"
+tokio-core = "0.1"
+tokio-service = "0.1"
+tokio-proto = "0.1"
